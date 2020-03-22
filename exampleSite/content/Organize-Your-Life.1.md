@@ -1,56 +1,71 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-2.jpg"
-categories: 
-  - "Philosophy"
-tags:
-  - "Philosophy"
-  - "Photos"
+title: Lass deinen Wortschatz zum Schatz werden! - Hinführungsspiel
+date: 2020-03-21T14:00:10+00:00
+description: This is meta description
+type: featured
+image: "/images/DSC00530.JPG"
+categories:
+- Meine Worte und Ich
+tags: []
+
 ---
+Yaaay! Wir machen eine Schatzsuche! 
 
+In diesem Spiel darfst du einfach Entdecker sein. Hier geht es noch gar nicht um Beziehungen zu anderen Menschen, hier geht es einfach nur um dich und deinen Schatz. Deinen Wortschatz.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Beobachte dich doch einfach mal, was du den ganzen Tag für Wörter benutzt und ob dies Wörter sind, die in dir ein gutes Gefühl erzeugen.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Du wirst wahrscheinlich feststellen, dass du einige Wörter benutzt, die für dich einfach neutral sind. 
 
+Neutrale Wörter könnten sein:
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+* das
+* eine
+* Lampe
+* Schublade
+* Karton
+* ....
 
+Dann werden dir sicher aber auch Wörter auffallen, die in dir eindeutig ein gutes Gefühl erzeugen. 
 
-![](../images/post-img.jpg)
+Gutes Gefühl erzeugende Wörter könnten sein:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+* Sonne
+* Geborgen
+* Meeresrauschen
+* Wald
+* Liebling
+* leicht
+* schön
+* spielen
+* ....
 
+Dann gibt es wahrscheinlich aber auch noch die Wörter, die du benutzt, und die in dir ein schlechtes Gefühl erzeugen. 
 
+Schlechtes Gefühl erzeugende Wörter könnten sein:
+
+* müssen
+* anstrengend
+* egal
+* Arbeit
+* ungesund
+* schlecht
+* doof
+* dumm
+* ....
+
+**Deine Aufgabe**
+
+Nimm dir 2 leere Blätter und leg sie mit einem Stift irgendwo hin, wo du tagsüber öfters vorbei kommst oder einfach dorthin, wo viel Kommunikation stattfindet (z.B. in der Küche oder im Wohnzimmer).
+
+Auf das eine Blatt schreibst du "Wörter, die sich gut anfühlen" und auf das andere Blatt schreibst du "Wörter, die sich schlecht anfühlen".
+
+Wenn dir in den Gesprächen mit anderen Menschen nun auffällt, dass du selbst oder dein Gegenüber Worte benutzt, die in dir ganz klar ein gutes oder ein schlechtes Gefühl erzeugen, dann schreib sie einfach mal auf die jeweilige Liste.
+
+Du kannst einen Punkt hinter das Wort machen, wenn es jemand anders verwendet hat, ansonsten konzentrierst du dich aber eher auf deine eigenen Wörter (weil du erstmal nur darauf einen Einfluss hast!).
+
+So, der erste Schritt wäre geschafft!
+
+Du hast dir mit diesem Spiel bewusst gemacht, welche Wörter in dir ein gutes und ein schlechtes Gefühl erzeugen. Vielleicht ist dir aufgefallen, dass du manche der Wörter sehr häufig nutzt. Lass das alles mal auf dich wirken und freu dich auf das nächste Spiel, in dem wir deinen Wortschatz in einen richtigen Schatz verwandeln.
+
+Alles Liebe für dich! Alina
