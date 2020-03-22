@@ -22,6 +22,15 @@ Du wirst wahrscheinlich feststellen, dass du einige Wörter benutzt, die für di
 * Zucker
 * Butter
 
+
+* blabla
+* blabla
+* bla
+
+1. die
+2. das
+3. der
+
 \* Baum
 
 \* Haus
