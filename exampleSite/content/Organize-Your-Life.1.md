@@ -21,8 +21,6 @@ Du wirst wahrscheinlich feststellen, dass du einige Wörter benutzt, die für di
 * Mehl
 * Zucker
 * Butter
-
-
 * blabla
 * blabla
 * bla
@@ -40,8 +38,6 @@ Du wirst wahrscheinlich feststellen, dass du einige Wörter benutzt, die für di
 Neutrale Wörter könnten sein:
 
 * das
-
-
 * eine
 * Lampe
 * Schublade
