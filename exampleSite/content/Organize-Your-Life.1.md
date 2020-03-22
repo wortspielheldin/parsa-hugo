@@ -9,24 +9,37 @@ categories:
 tags: []
 
 ---
-Yaaay! Wir machen eine Schatzsuche! 
+Yaaay! Wir machen eine Schatzsuche!
 
 In diesem Spiel darfst du einfach Entdecker sein. Hier geht es noch gar nicht um Beziehungen zu anderen Menschen, hier geht es einfach nur um dich und deinen Schatz. Deinen Wortschatz.
 
 Beobachte dich doch einfach mal, was du den ganzen Tag für Wörter benutzt und ob dies Wörter sind, die in dir ein gutes Gefühl erzeugen.
 
-Du wirst wahrscheinlich feststellen, dass du einige Wörter benutzt, die für dich einfach neutral sind. 
+Du wirst wahrscheinlich feststellen, dass du einige Wörter benutzt, die für dich einfach neutral sind.
+
+* Eier
+* Mehl
+* Zucker
+* Butter
+
+\* Baum
+
+\* Haus
+
+\* Blatt
 
 Neutrale Wörter könnten sein:
 
 * das
+
+
 * eine
 * Lampe
 * Schublade
 * Karton
 * ....
 
-Dann werden dir sicher aber auch Wörter auffallen, die in dir eindeutig ein gutes Gefühl erzeugen. 
+Dann werden dir sicher aber auch Wörter auffallen, die in dir eindeutig ein gutes Gefühl erzeugen.
 
 Gutes Gefühl erzeugende Wörter könnten sein:
 
@@ -40,7 +53,7 @@ Gutes Gefühl erzeugende Wörter könnten sein:
 * spielen
 * ....
 
-Dann gibt es wahrscheinlich aber auch noch die Wörter, die du benutzt, und die in dir ein schlechtes Gefühl erzeugen. 
+Dann gibt es wahrscheinlich aber auch noch die Wörter, die du benutzt, und die in dir ein schlechtes Gefühl erzeugen.
 
 Schlechtes Gefühl erzeugende Wörter könnten sein:
 
